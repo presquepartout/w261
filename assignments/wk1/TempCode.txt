@@ -1,0 +1,21 @@
+'''
+Let DF represent the training set in the following:
+Err(Model, DF) = |{(X, c(X)) ∈ DF : c(X) != Model(x)}| / |DF|
+
+Where || denotes set cardinality; c(X) denotes the class of the tuple X in DF; 
+and Model(X) denotes the class inferred by the Model “Model”
+'''
+
+from sklearn.naive_bayes import MultinomialNB
+
+
+
+msgCount = 0
+wrongCount = 0
+with open('enronemail_1h.txt.output', 'r') as f:
+    for line in f:
+        msgCount += 1
+        (msgId, trueClass, predictedClass) = line.split('\t')
+        wrongCount += int(int(trueClass) != int(predictedClass))
+        
+print "Error rate =", float(wrongCount) / msgCount    
