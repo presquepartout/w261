@@ -1,0 +1,4 @@
+A B C D E	1	2	3
+C A D E D	1	1	1
+C A B B E	1	1	1
+B C A A A	3	1	1
