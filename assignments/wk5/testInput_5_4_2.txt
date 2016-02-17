@@ -1,0 +1,3 @@
+a x y z 	1	1	1
+b x y	1	1	1
+c m n z	1	1	1
