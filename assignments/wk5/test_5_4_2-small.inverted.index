@@ -1,0 +1,103 @@
+"alternate"	{"viewing": 82}
+"alzheimer's"	{"dementia": 181}
+"amidst"	{"tumult": 80, "restless": 43}
+"ammonium"	{"hydroxide": 78}
+"anemia"	{"pernicious": 58}
+"annum"	{"thereon": 69}
+"approximated"	{"subcutaneous": 120}
+"architectural"	{"decoration": 46}
+"articular"	{"cartilage": 51}
+"authoritative"	{"interpreter": 50}
+"balcony"	{"overlooking": 139}
+"bottles"	{"necks": 65}
+"brightest"	{"diamond": 71}
+"canons"	{"commonest": 43}
+"careless"	{"hasty": 58}
+"cartilage"	{"articular": 51, "localized": 51}
+"ce"	{"qui": 48}
+"commence"	{"qui": 63, "palestinian": 62}
+"commonest"	{"canons": 43}
+"commonplace"	{"feathers": 84}
+"complexion"	{"darker": 86}
+"contradictory"	{"predicate": 171}
+"conveying"	{"pipes": 155}
+"dame"	{"habitation": 66}
+"darker"	{"complexion": 86}
+"darkest"	{"superstition": 110}
+"decoration"	{"architectural": 46}
+"deliberations"	{"trent": 47}
+"dementia"	{"alzheimer's": 181}
+"diamond"	{"brightest": 71}
+"discomfort"	{"localized": 43}
+"dividend"	{"shareholders": 43}
+"dumb"	{"pretending": 69}
+"endowment"	{"unstable": 84}
+"est"	{"qui": 83}
+"establishments"	{"sanitary": 49}
+"feathers"	{"commonplace": 84}
+"flexor"	{"sheath": 203}
+"flocks"	{"herds": 969}
+"flourish"	{"jungle": 137}
+"fossil"	{"shells": 103}
+"habitation"	{"dame": 66}
+"hasty"	{"careless": 58, "impatience": 41}
+"herds"	{"flocks": 969, "restless": 43}
+"humiliation"	{"intolerable": 127, "rejoiced": 132}
+"hydroxide"	{"soda": 42, "ammonium": 78}
+"impatience"	{"hasty": 41}
+"indiana"	{"linguistics": 128}
+"inspector"	{"sanitary": 46}
+"interpreter"	{"authoritative": 50}
+"intolerable"	{"humiliation": 127}
+"irresistible"	{"speedily": 44}
+"jones"	{"summon": 83}
+"jungle"	{"flourish": 137}
+"laden"	{"spoils": 67}
+"linguistics"	{"indiana": 128}
+"localized"	{"discomfort": 43, "cartilage": 51}
+"magnificence"	{"sketches": 66}
+"matthew"	{"sayings": 76}
+"meridian"	{"zenith": 141}
+"necks"	{"bottles": 65}
+"operative"	{"wholesale": 43}
+"overlooking"	{"balcony": 139}
+"palestinian"	{"commence": 62}
+"peritoneal"	{"sac": 77}
+"pernicious"	{"anemia": 58}
+"pink"	{"replacing": 47, "wax": 411}
+"pipes"	{"conveying": 155}
+"pitched"	{"tents": 123}
+"polished"	{"shells": 59}
+"predicate"	{"contradictory": 171}
+"pretending"	{"dumb": 69}
+"qui"	{"est": 83, "commence": 63, "ce": 48}
+"rejoiced"	{"humiliation": 132}
+"relaxed"	{"vigilance": 145}
+"replacing"	{"pink": 47}
+"resembling"	{"shells": 107}
+"restless"	{"amidst": 43, "herds": 43}
+"sac"	{"peritoneal": 77, "uterine": 48}
+"sanitary"	{"inspector": 46, "establishments": 49}
+"sayings"	{"matthew": 76}
+"shareholders"	{"dividend": 43}
+"sheath"	{"flexor": 203}
+"shells"	{"resembling": 107, "polished": 59, "fossil": 103}
+"sketches"	{"magnificence": 66}
+"soda"	{"hydroxide": 42}
+"speedily"	{"irresistible": 44}
+"spoils"	{"laden": 67}
+"subcutaneous"	{"approximated": 120}
+"summon"	{"jones": 83}
+"superstition"	{"darkest": 110}
+"telescope"	{"viewing": 93}
+"tents"	{"pitched": 123}
+"thereon"	{"annum": 69}
+"trent"	{"deliberations": 47}
+"tumult"	{"amidst": 80}
+"unstable"	{"endowment": 84}
+"uterine"	{"sac": 48}
+"viewing"	{"alternate": 82, "telescope": 93}
+"vigilance"	{"relaxed": 145}
+"wax"	{"pink": 411}
+"wholesale"	{"operative": 43}
+"zenith"	{"meridian": 141}
